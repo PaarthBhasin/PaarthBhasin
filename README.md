@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paarth Bhasin</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paarthbhasin&label=Profile%20views&color=0e75b6&style=flat" alt="paarthbhasin" /> </p>
-
 - 🌱 I’m currently learning **ReactJs**
-
--🎓 I’m an undergraduate pursuing my Bachelors in Technology 
 
 - 👨‍💻 All of my projects are available at [https://github.com/PaarthBhasin](https://github.com/PaarthBhasin)
 
@@ -24,5 +19,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=paarthbhasin&show_icons=true&locale=en&layout=compact" alt="paarthbhasin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=paarthbhasin&show_icons=true&locale=en" alt="paarthbhasin" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paarthbhasin&" alt="paarthbhasin" /></p>
