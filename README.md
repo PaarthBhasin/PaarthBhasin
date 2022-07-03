@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/PaarthBhasin](https://github.com/PaarthBhasin)
 
-- 📫 How to reach me **paarthbhasin2011@gmail.com**
+- 📫 How to reach me **paarthbhasin2012@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
