@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning **ReactJs**
 
+-🎓 I’m an undergraduate pursuing my Bachelors in Technology 
+
 - 👨‍💻 All of my projects are available at [https://github.com/PaarthBhasin](https://github.com/PaarthBhasin)
 
 - 📫 How to reach me **paarthbhasin2011@gmail.com**
